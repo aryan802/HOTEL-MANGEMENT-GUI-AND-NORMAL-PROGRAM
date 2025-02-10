@@ -1,1 +1,2 @@
 # HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM
+Hotel Management System is a Python-based project that includes both a graphical user interface (GUI) and a command-line interface (CLI) to manage hotel operations efficiently. The system allows users to perform various tasks such as guest check-in, check-out, retrieving guest information, and displaying guest lists. The project leverages Python's Tkinter for GUI-based interactions and uses file handling and pickling for data storage. It includes different room categories with pricing, bill generation, and payment options.
